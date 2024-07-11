@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-white text-black;
+}
+
+body {
+  @apply font-sans;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+  font-family: 'Playfair Display', serif;
+}
+
+.font-serif-1 {
+  font-family: 'Merriweather', serif;
+}
+
+.font-serif-2 {
+  font-family: 'Playfair Display', serif;
+}
+
