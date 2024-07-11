@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/comunidade/static/css/main.3697b72a.css",
+    "main.js": "/comunidade/static/js/main.c17fa05e.js",
+    "static/js/453.b17e0706.chunk.js": "/comunidade/static/js/453.b17e0706.chunk.js",
+    "static/media/logo.png": "/comunidade/static/media/logo.4617a9961c41dbd6c222.png",
+    "static/media/santa teresinha.jpg": "/comunidade/static/media/santa teresinha.c69a3ae8c01b0d04a034.jpg",
+    "index.html": "/comunidade/index.html",
+    "main.3697b72a.css.map": "/comunidade/static/css/main.3697b72a.css.map",
+    "main.c17fa05e.js.map": "/comunidade/static/js/main.c17fa05e.js.map",
+    "453.b17e0706.chunk.js.map": "/comunidade/static/js/453.b17e0706.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3697b72a.css",
+    "static/js/main.c17fa05e.js"
+  ]
+}
