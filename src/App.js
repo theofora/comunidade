@@ -15,7 +15,7 @@ import Contato from './pages/Contato';
 import Footer from './components/Footer';  // Importar o footer
 
 const App = () => (
-  <Router>
+  <Router basename="/comunidade">
     <div className="flex flex-col min-h-screen">
       <Navbar />
       <main className="flex-grow p-4">
